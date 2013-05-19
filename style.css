@@ -1,0 +1,50 @@
+body,html {
+margin: 0;
+padding: 0;
+color: #000;
+font-family: Verdana, Helvetica, sans-serif;
+}
+#wrap {
+width: 750px;
+margin: 0 auto;
+padding: 20px;
+background: #ffffff;
+}
+#header {
+padding: 5px 10px;
+background: #ffffff;
+}
+a:link, a:visited, a:active, a:hover {
+color: #4E7A8A;
+}
+#header img{
+border: 0;
+height: 100px;
+width: 100px;
+}
+
+h1 {
+margin: 0;
+}
+h2 {
+margin: 0 0 1em;
+}
+#main-sideless {
+float: left;
+width: 710px;
+padding: 20px;
+background: #ffffff;
+}
+#footer {
+clear: both;
+padding: 5px 10px;
+background: white;
+color: black;
+}
+#footer p {
+margin: 0;
+}
+
+#results, #domainwarning{
+display:none;
+}
